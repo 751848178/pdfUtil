@@ -1,0 +1,16 @@
+{
+  "name": "pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "pdfjs-dist": "^2.2.228"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel watch index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
